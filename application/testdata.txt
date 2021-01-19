@@ -1,0 +1,238 @@
+$data_string1='{
+    "ResultId": "30b0d3d4-d9ff-41e6-a8e0-10ff31b2f2de",
+    "EndUserBrowserAgent":"Mozilla/5.0(Windows NT 6.1)",
+    "PointOfSale":"IN",
+    "RequestOrigin":"India",
+    "UserData":"Lead Passenger Name"
+    "TokenId": "0d8613b0-e672-45ad-a009-dc8c403655d2",
+    "TrackingId": "6abc30b5-f88b-42e9-b972-a5e7bd7080ce",
+    "IPAddress": "192.168.4.238",
+    "Itinerary": {
+    "Segments": [
+    {
+    "NoOfSeatAvailable": 3,
+    "OperatingCarrier": "",
+    "SegmentIndicator": 1,
+    "Airline": "9W",
+    "Origin": {
+    "AirportCode": "BOM",
+    "AirportName": "Mumbai",
+    "CityCode": "BOM",
+    "CityName": "Mumbai",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "Terminal": "2"
+    },
+    "Destination": {
+    "AirportCode": "NAG",
+    "AirportName": "Sonegaon",
+    "CityCode": "NAG",
+    "CityName": "Nagpur"
+    ,
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "Terminal": null
+    },
+    "FlightNumber": "2683",
+    "DepartureTime": "2018-12-29T06:05:00",
+    
+    "ArrivalTime": "2018-12-29T07:40:00",
+    
+    "BookingClass": "O",
+    "MealType": null,
+    "ETicketEligible": true,
+    "Craft": "73G",
+    "StopOver": false,
+    "Stops": 0,
+    "Mile": 0,
+    "Duration": "17:10:00",
+    "GroundTime": "00:00:00",
+    "AccumulatedDuration": "00:00:00",
+    "StopPoint": null,
+    "StopPointArrivalTime": "0001-01-01T00:00:00",
+    
+    "StopPointDepartureTime": "0001-01-01T00:00:00",
+    
+    "IncludedBaggage": "1 PC(s)",
+    "CabinBaggage": "",
+    "AdditionalBaggage": null,
+    "AirlineDetails": {
+    "AirlineCode": "9W",
+    "FlightNumber": "2683",
+    
+    "Craft": "73G",
+    "AirlineName": "Jet Airways",
+    "OperatingCarrier": ""
+    },
+    "AirlineName": "Jet Airways"
+    },
+    {
+    
+    "NoOfSeatAvailable": 3,
+    "OperatingCarrier": "9W",
+    "SegmentIndicator": 1,
+    "Airline": "9W",
+    "Origin": {
+    "AirportCode": "NAG",
+    "AirportName": "Sonegaon",
+    "CityCode": "NAG",
+    "CityName": "Nagpur",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "Terminal": null
+    },
+    "Destination": {
+    "AirportCode": "DEL",
+    "AirportName": "Indira Gandhi Airport",
+    "CityCode": "DEL",
+    "CityName": "Delhi",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "Terminal": "3"
+    },
+    "FlightNumber": "3534",
+    "DepartureTime": "2018-12-29T21:35:00",
+    
+    "ArrivalTime": "2018-12-29T23:15:00",
+    
+    "BookingClass": "O",
+    "MealType": null,
+    "ETicketEligible": true,
+    "Craft": "73H",
+    "StopOver": false,
+    "Stops": 0,
+    "Mile": 0,
+    "Duration": "17:10:00",
+    "GroundTime": "00:00:00",
+    "AccumulatedDuration": "17:10:00",
+    "StopPoint": null,
+    "StopPointArrivalTime": "0001-01-01T00:00:00",
+    
+    "StopPointDepartureTime": "0001-01-01T00:00:00",
+    
+    "IncludedBaggage": "1 PC(s)",
+    "CabinBaggage": "",
+    
+    "AdditionalBaggage": null,
+    "AirlineDetails": {
+    "AirlineCode": "9W",
+    "FlightNumber": "3534",
+    "Craft": "73H",
+    "AirlineName": "Jet Airways",
+    "OperatingCarrier": "9W"
+    },
+    "AirlineName": "Jet Airways"
+    
+    }
+    ],
+    "Passenger": [
+    {
+    "PassportIssueCountryCode": null,
+    "PassportIssueDate": "0001-01-01T00:00:00",
+    
+    "Title": "Mr",
+    "FirstName": "amanshubh",
+    "LastName": "localxml",
+    "Mobile1": "971
+    
+    -9874589652",
+    "Mobile1CountryCode": "971",
+    "Mobile2": null,
+    "IsLeadPax": true,
+    "DateOfBirth": "1986-06-18T00:00:00",
+    
+    "Type": 1,
+    "PassportNo": "sdasd",
+    "PassportExpiry": "2019-11-28T00:00:00",
+    
+    "Nationality": {
+    "CountryCode": "AE",
+    "CountryName": "United Arab Emirates"
+    },
+    "Country": {
+    "CountryCode": "AE",
+    "CountryName": "United Arab Emirates"
+    },
+    "City": {
+    "CountryCode": null,
+    "CityCode": "QAJ",
+    "CityName": "Ajman City"
+    },
+    "AddressLine1": "Ajman City United Arab Emirates",
+    "AddressLine2": "United Arab Emirates",
+    "Gender": 1,
+    "Email": "aman@techmaster.in",
+    "Meal": null,
+    "Seat": null,
+    "Fare": {
+    "TotalFare": 141.43336940839627131118376893,
+    
+    Confidential TBO Air,2018 51
+    "FareType": "RP",
+    "AgentMarkup": 10,
+    "OtherCharges": 0,
+    "AgentPreferredCurrency": "USD",
+    "ServiceFee": 5,
+    "Vat": 0,
+    "BaseFare": 24.080389539007758281120443044,
+    "Tax": 102.35297986938851303006332589
+    },
+    "FFAirline": null,
+    "FFNumber": null,
+    "TboAirPaxId": 0,
+    "PaxBaggage": [],
+    "PaxMeal": [],
+    "IDCardNo": null,
+    "ZipCode": null,
+    "PaxSeat": null,
+    "Ticket": null
+    }
+    ],
+    "FareRules": [
+    {
+    "Origin": "BOM",
+    "Destination": "NAG",
+    "Airline": "9W",
+    "FareRestriction": "Y",
+    "FareBasisCode": "O2IPO",
+    "FareRuleDetail": "These Are Non Refundable Fares.",
+    "DepartureDate": "2018-12-29T06:05:00",
+    "FlightNumber": "2683"
+    },
+    {
+    "Origin": "NAG",
+    "Destination": "DEL",
+    "Airline": "9W",
+    "FareRestriction": "Y",
+    "FareBasisCode": "O2IPO",
+    "FareRuleDetail": "Please refer above.<br/> <br/>",
+    "DepartureDate": "2018-12-29T21:35:00",
+    "FlightNumber": "3534"
+    }
+    ],
+    "Destination": "DEL",
+    "FareType": "PUBL",
+    "LastTicketDate": null,
+    "Origin": "BOM",
+    "CreatedOn": "0001-01-01T00:00:00",
+    
+    "FailedBookingId": 0,
+    "ValidatingAirlineCode": "9W",
+    "IsDomestic": false,
+    "AirlineCode": null,
+    "TravelDate": "2018-12-29T23:35:00",
+    
+    "NonRefundable": false,
+    "AgentRefNo": null,
+    "IsLcc": false,
+    "AirlineRemark": "",
+    "SearchType": 1,
+    "OnBehalfOf": 0,
+    "EarnedLoyaltyPoints": 0,
+    "TripName": "ShubhamSS SharmaSS Trip",
+    "StaffRemarks": null,
+    "PricingKeyDetail": null,
+    "SSRData": null
+    }
+    }'
+    ;

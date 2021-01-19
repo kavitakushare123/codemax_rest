@@ -1,0 +1,8 @@
+[12-Nov-2019 17:15:01 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home/f6w103otik8i/public_html/hotelstone_ci/application/config/config.php on line 25
+[12-Nov-2019 17:15:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[12-Nov-2019 17:15:31 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home/f6w103otik8i/public_html/hotelstone_ci/application/config/config.php on line 25
+[12-Nov-2019 17:15:31 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[12-Nov-2019 17:16:01 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home/f6w103otik8i/public_html/hotelstone_ci/application/config/config.php on line 25
+[12-Nov-2019 17:16:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[07-May-2020 04:32:48 UTC] PHP Fatal error:  Cannot redeclare Home::b2c_user_login_post() in /home/f6w103otik8i/public_html/journeytkt_rest/application/modules/home/controllers/Home.php on line 449
+[07-May-2020 04:32:58 UTC] PHP Fatal error:  Cannot redeclare Home::b2c_user_login_post() in /home/f6w103otik8i/public_html/journeytkt_rest/application/modules/home/controllers/Home.php on line 449
